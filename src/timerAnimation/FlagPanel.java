@@ -52,6 +52,11 @@ public class FlagPanel extends JPanel implements ActionListener{
 	{
 		if(arg0.getSource() == t)
 		{
+			// Having trouble with this as of right now...
+			// Won't properly cycle through every image, it ends up going back in forth between
+			// what's in the first index of the array and what's in the third index,
+			// i.e., theImages[0] and theImages[2]. I can't really think, since it's 1:57AM,
+			// so I'll try this tomorrow...
 			imageToDisplay = theImages[imageCycler++ % 4];
 		}
 		

@@ -10,3 +10,9 @@ This application animates between two images upon keypress. The purpose of this 
 I doubt very much that this is the 'proper' way to animate, but I just wanted to try it out. The images in the source code are .pngs that my friends and I made one Friday night at college and it was actually pretty rewarding to something work. Feel free to modify!
 
 -- Nate
+
+Time Animator
+
+----------------
+
+This is more similar to what I had in mind before actually doing the programming that night we did Sprite Animator. I had originally wanted to use a timer to animate through the images. Now I am! Although it doesn't exactly work perfectly... Still working on it!
